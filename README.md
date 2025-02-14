@@ -5,7 +5,7 @@
 https://public.tableau.com/app/profile/daniel.ryan7831/viz/football_viz_DanielRyan/Dashboard3
 
 <p align="center"; style="font-size: 30px; font-weight: bold; text-align: center;">
-  <a href="https://public.tableau.com/app/profile/daniel.ryan7831/viz/football_viz_DanielRyan/Dashboard3" target="_blank"><strong>Tableau Link</strong></a>, 
+  <a href="https://public.tableau.com/app/profile/daniel.ryan7831/viz/football_viz_DanielRyan/Dashboard3" target="_blank"><strong>Tableau Link</strong></a>
 
 </p>
 
